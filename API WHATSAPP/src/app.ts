@@ -1,5 +1,2 @@
-import { create, Whatsapp, Message, SocketState } from 'venom-bot';
-
-class Sender{
-    private cliente: Whatsapp;
-}
+import Sender from "./sender";
+const sender = new Sender();
