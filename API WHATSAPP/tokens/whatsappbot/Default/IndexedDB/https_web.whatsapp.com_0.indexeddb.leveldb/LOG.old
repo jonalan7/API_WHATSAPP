@@ -1,5 +1,24 @@
-2022/10/30-09:16:12.214 9cc Reusing MANIFEST C:\Users\DCOP2022\Documents\API WHATSAPP\API_WHATSAPP\API WHATSAPP\tokens\whatsappbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/30-09:16:12.215 9cc Recovering log #39
-2022/10/30-09:16:12.250 9cc Reusing old log C:\Users\DCOP2022\Documents\API WHATSAPP\API_WHATSAPP\API WHATSAPP\tokens\whatsappbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000039.log 
-2022/10/30-09:16:12.250 9cc Delete type=2 #38
-2022/10/30-09:16:12.250 9cc Delete type=2 #40
+2022/10/30-10:15:01.500 2f58 Reusing MANIFEST C:\Users\DCOP2022\Documents\API WHATSAPP\API_WHATSAPP\API WHATSAPP\tokens\whatsappbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/30-10:15:01.500 2f58 Recovering log #202
+2022/10/30-10:15:01.501 2f58 Reusing old log C:\Users\DCOP2022\Documents\API WHATSAPP\API_WHATSAPP\API WHATSAPP\tokens\whatsappbot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000202.log 
+2022/10/30-10:15:02.410 2e1c Compacting 1@0 + 1@1 files
+2022/10/30-10:15:02.505 2e1c Generated table #205@0: 80889 keys, 1892551 bytes
+2022/10/30-10:15:02.505 2e1c Compacted 1@0 + 1@1 files => 1892551 bytes
+2022/10/30-10:15:02.506 2e1c compacted to: files[ 0 1 5 0 0 0 0 ]
+2022/10/30-10:15:02.506 2e1c Delete type=2 #195
+2022/10/30-10:15:02.507 2e1c Delete type=2 #203
+2022/10/30-10:15:12.511 45d0 Compacting 1@1 + 5@2 files
+2022/10/30-10:15:12.588 45d0 Generated table #206@1: 11065 keys, 2175218 bytes
+2022/10/30-10:15:12.656 45d0 Generated table #207@1: 1958 keys, 2151044 bytes
+2022/10/30-10:15:12.732 45d0 Generated table #208@1: 18015 keys, 2226252 bytes
+2022/10/30-10:15:12.837 45d0 Generated table #209@1: 39086 keys, 2261554 bytes
+2022/10/30-10:15:12.945 45d0 Generated table #210@1: 76560 keys, 2219572 bytes
+2022/10/30-10:15:12.956 45d0 Generated table #211@1: 3359 keys, 76537 bytes
+2022/10/30-10:15:12.956 45d0 Compacted 1@1 + 5@2 files => 11110177 bytes
+2022/10/30-10:15:12.957 45d0 compacted to: files[ 0 0 6 0 0 0 0 ]
+2022/10/30-10:15:12.957 45d0 Delete type=2 #196
+2022/10/30-10:15:12.957 45d0 Delete type=2 #197
+2022/10/30-10:15:12.957 45d0 Delete type=2 #198
+2022/10/30-10:15:12.957 45d0 Delete type=2 #199
+2022/10/30-10:15:12.957 45d0 Delete type=2 #200
+2022/10/30-10:15:12.958 45d0 Delete type=2 #205

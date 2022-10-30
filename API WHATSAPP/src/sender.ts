@@ -1,4 +1,4 @@
-//import { start } from 'repl';
+import { start } from 'repl';
 import { create, Whatsapp, Message, SocketState } from 'venom-bot';
 
 class Sender{
@@ -11,7 +11,13 @@ class Sender{
     //ENVIANDO TEXTO
     async sendText(to: string, body: string){
 
-        this.client.sendText(to, body)
+        //this.sendText("5583987368495@c.us", "API-TESTE")
+
+        try{
+            await this.client.sendText(to, body)
+        }catch(error){
+            console.log(error)
+        }
     }
 
     //METODO Q VAI CRIAR O VENOM-BOT
@@ -25,8 +31,8 @@ class Sender{
         //DÁ O START    
         const start = (client: Whatsapp) => {
             this.client = client
-
-            this.sendText("5583987368495@c.us", "API-TESTE")
+            //this.sendText("5583987368495@c.us", "API-TESTE")
+            
         }
 
         create('whatsappbot', qr, status)
